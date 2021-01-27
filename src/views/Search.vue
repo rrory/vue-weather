@@ -1,5 +1,17 @@
 <template>
-  <div class="search">
-    <h1>Search location weather</h1>
+  <div>
+    <Weather /> 
   </div>
 </template>
+
+<script>
+  import Weather from '../components/Weather'
+
+  export default {
+      name: 'Search',
+
+      components: {
+        Weather,
+      },
+  }
+</script>
