@@ -1,4 +1,4 @@
-# vue-app
+# vue-weather
 **My first time workign with Vue.js**
 
 Weather app using Vue.js, [OpenWeatherMap](https://openweathermap.org/).
